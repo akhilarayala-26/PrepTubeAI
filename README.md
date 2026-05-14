@@ -162,8 +162,4 @@ AgenticAI/
         └── api/                # Axios API client
 ```
 
----
 
-## 📝 License
-
-MIT
